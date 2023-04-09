@@ -1,0 +1,108 @@
+[
+    {
+        "id": 1,
+      "company_logo": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/streams/2013/March/130326/1C6639340-google-logo.jpg",
+      "job_title": "Software Engineer",
+      "company_name": "Google LLC",
+      "remote": "Remote",
+      "location": "Dhaka Bangladesh",
+      "fulltime": "Full-time",
+      "salary": "$100,000 - $120,000",
+      "job_description": "We are seeking a talented software engineer to join our team and help us develop innovative software solutions. The ideal candidate will have experience in developing web applications using modern web frameworks and technologies.",
+      "job_responsibility": "Design, develop, test, deploy, and maintain software applications; collaborate with cross-functional teams to identify and solve complex software problems.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3+ years of experience in software development.",
+      
+        "phone": "555-1234",
+        "email": "hr@abccompany.com"
+    
+},
+    {
+        "id": 2,
+        "company_logo": "https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png",
+        "job_title": "Senior Product Designer",
+        "company_name": "Netflix",
+        "Onsite": "Onsite",
+        "location": "KatMundu Nepal",
+        "fulltime": "Full-time",
+        "salary": "$120,000 - $220,000",
+        "job_description": "We are seeking a talented software engineer to join our team and help us develop innovative software solutions. The ideal candidate will have experience in developing web applications using modern web frameworks and technologies.",
+        "job_responsibility": "Design, develop, test, deploy, and maintain software applications; collaborate with cross-functional teams to identify and solve complex software problems.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3+ years of experience in software development.",
+        
+          "phone": "555-1234",
+          "email": "hr@abccompany.com"
+    },
+    {
+        "id": 3,
+        "company_logo": "https://c8.alamy.com/comp/HP0RBB/tesla-logo-HP0RBB.jpg",
+        "job_title": "Technical Database Engineer",
+        "company_name": "Tesla",
+        "Onsite": "Onsite",
+        "location": "London",
+        "Part-time": "Part-Time",
+        "salary": "$120,000 - $200,000",
+        "job_description": "We are seeking a talented software engineer to join our team and help us develop innovative software solutions. The ideal candidate will have experience in developing web applications using modern web frameworks and technologies.",
+        "job_responsibility": "Design, develop, test, deploy, and maintain software applications; collaborate with cross-functional teams to identify and solve complex software problems.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3+ years of experience in software development.",
+        
+          "phone": "555-1234",
+          "email": "hr@abccompany.com"
+    },
+    {
+        "id": 4,
+      "company_logo": "https://assets.turbologo.com/blog/en/2019/09/19085001/amazon-current-logo.png",
+      "job_title": "Software Engineer",
+      "company_name": "Amazon",
+      "remote": "Remote",
+      "location": "China Local",
+      "fulltime": "Full-time",
+      "salary": "$100,000 - $120,000",
+      "job_description": "We are seeking a talented software engineer to join our team and help us develop innovative software solutions. The ideal candidate will have experience in developing web applications using modern web frameworks and technologies.",
+      "job_responsibility": "Design, develop, test, deploy, and maintain software applications; collaborate with cross-functional teams to identify and solve complex software problems.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3+ years of experience in software development.",
+      
+        "phone": "555-1234",
+        "email": "hr@abccompany.com"
+    
+},
+    {
+        "id": 5,
+        "company_logo": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/social-media/facebook-logo.png",
+        "job_title": "Senior data scientist",
+        "company_name": "Facebook",
+        "Onsite": "Onsite",
+        "location": "India, dilli",
+        "fulltime": "Full-time",
+        "salary": "$100,000 - $220,000",
+        "job_description": "We are seeking a talented software engineer to join our team and help us develop innovative software solutions. The ideal candidate will have experience in developing web applications using modern web frameworks and technologies.",
+        "job_responsibility": "Design, develop, test, deploy, and maintain software applications; collaborate with cross-functional teams to identify and solve complex software problems.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3+ years of experience in software development.",
+        
+          "phone": "017347477347",
+          "email": "alhr@abccompany.com"
+    },
+    {
+        "id": 6,
+        "company_logo": "https://logos-world.net/wp-content/uploads/2022/05/Alibaba-Logo.png",
+        "job_title": "Technical Database Engineer",
+        "company_name": "Alibaba",
+        "Onsite": "Onsite",
+        "location": "London",
+        "Part-time": "Part-Time",
+        "salary": "$120,000 - $200,000",
+        "job_description": "We are seeking a talented software engineer to join our team and help us develop innovative software solutions. The ideal candidate will have experience in developing web applications using modern web frameworks and technologies.",
+        "job_responsibility": "Design, develop, test, deploy, and maintain software applications; collaborate with cross-functional teams to identify and solve complex software problems.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3+ years of experience in software development.",
+        
+          "phone": "01793747347",
+          "email": "alaminice1773@gmail.com"
+    }
+    
+
+]
