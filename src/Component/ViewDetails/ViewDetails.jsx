@@ -1,12 +1,20 @@
 import React from 'react';
 import { useLoaderData, useParams } from 'react-router-dom';
 import { MapPinIcon, CurrencyDollarIcon, BriefcaseIcon,PhoneIcon,EnvelopeIcon, PhoneXMarkIcon  } from '@heroicons/react/24/solid'
+import { addToDb } from '../fakeDb/fakeDb';
 
 const ViewDetails = () => {
     const jobDetails=useLoaderData();
     const {id}=useParams();
     const data=jobDetails.find(item=>item.id==id);
     const {job_description, job_responsibility,job_title, location, phone, salary, experiences,email, educational_requirements }=data;
+//   handle local storage
+      const localStorage=()=>{
+        //    console.log(id); 
+           addToDb(id);
+      }
+
+
     return (
         <>
         <h1 className='text-center my-container bg-slate-50 mt-4 text-4xl font-bold'>Job Details</h1>
@@ -31,7 +39,7 @@ const ViewDetails = () => {
                 <p className='inline-flex'><EnvelopeIcon className='className="h-6 w-6 text-black-500"'></EnvelopeIcon> Email:{email}</p><br/>
                 <p className='inline-flex'><MapPinIcon className="h-6 w-6 text-black-500"></MapPinIcon>  Address: {location}</p><br/>
 
-                <button className='bg-blue-500 py-4 rounded-2xl text-white text-xl font-bold hover:bg-blue-700 w-full my-4'>Apply Now</button>
+                <button className='bg-blue-500 py-4 rounded-2xl text-white text-xl font-bold hover:bg-blue-700 w-full my-4' onClick={localStorage} >Apply Now</button>
 
             </div>
         </div>
