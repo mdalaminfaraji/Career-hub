@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useLoaderData } from 'react-router-dom';
 import { getJobFromStorage } from '../fakeDb/fakeDb';
 import StorageJob from '../StorageJob/StorageJob';
@@ -16,6 +16,8 @@ const AppliedJobs = () => {
             apply.push(FoundJob);
         }
     }
+
+    const [state, setSate]=useState();
     
    
     return (

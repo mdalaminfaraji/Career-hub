@@ -3,7 +3,7 @@ import { MapPinIcon, CurrencyDollarIcon  } from '@heroicons/react/24/solid'
 import { Link } from 'react-router-dom';
 
 const StorageJob = ({storageJob}) => {
-    console.log(storageJob);
+    
     const {company_logo, company_name, id, fulltime_partTime, location, Onsite_remote, salary,job_title}=storageJob;
     return (
         <div className='border shadow-xl rounded-md  my-3 p-4 grid grid-cols-1 md:grid-cols-3 md:justify-items-center md:items-center'>
