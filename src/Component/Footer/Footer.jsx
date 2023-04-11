@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <>
         <div className='my-container  bg-black opacity-90 text-white mt-4 rounded-md'>
-            <div className=' grid grid-cols-1 md:grid-cols-4 '>
+            <div className='pl-6 grid grid-cols-1 md:grid-cols-4 gap-3'>
             <div>
                 <h1 className='font-bold text-2xl pb-3'>JobNexus</h1>
                 <p>It is most populer site in the world . Thousands of search job in this site.</p>
