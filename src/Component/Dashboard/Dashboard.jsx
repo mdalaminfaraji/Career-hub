@@ -2,14 +2,14 @@ import React from 'react';
 import { PieChart, Pie, Sector, Cell, ResponsiveContainer, Tooltip } from 'recharts';
 
 const data01 = [
-    { name: 'MileStone-1', value: 400 },
-    { name: 'MileStone-2', value: 300 },
-    { name: 'MileStone-3', value: 300 },
-    { name: 'MileStone-4', value: 200 },
-    { name: 'MileStone-5', value: 400 },
-    { name: 'MileStone-6', value: 300 },
-    { name: 'MileStone-7', value: 300 },
-    { name: 'MileStone-8', value: 200 },
+    { name: 'MileStone-1-total-module', value: 6 },
+    { name: 'MileStone-2-total-module', value: 5 },
+    { name: 'MileStone-3-total-module', value: 5 },
+    { name: 'MileStone-4-total-module', value: 8 },
+    { name: 'MileStone-5-total-module', value: 6 },
+    { name: 'MileStone-6-total-module', value: 8},
+    { name: 'MileStone-7-total-module', value: 7 },
+    { name: 'MileStone-8-total-module', value: 7 },
   ];
   const data02 = [
     { name: 'Assignment-1', value: 59 },

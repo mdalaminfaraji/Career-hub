@@ -10,6 +10,7 @@ const Statistics = () => {
             <div>
               <Dashboard></Dashboard>
             </div>
+            
         </div>
     );
 };
