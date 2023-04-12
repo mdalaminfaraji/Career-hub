@@ -10,7 +10,7 @@ const Statistics = () => {
             <div>
               <Dashboard></Dashboard>
             </div>
-            
+            <h1 className='text-center mt-4 my-container font-bold text-3xl'> PieChart: Assignment Marks & Milestone Module!!!!</h1>
         </div>
     );
 };
